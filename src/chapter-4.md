@@ -1,5 +1,3 @@
-Chapter 4: AI Techniques for Effective Writing Feedback
-=======================================================
 
 AI technology is transforming the writing improvement process by providing writers with real-time feedback on various aspects of their writing. In this chapter, we will explore how AI can be used to provide effective writing feedback in three key areas: grammar, syntax, and style; text structure and organization; and personalization and contextualization.
 

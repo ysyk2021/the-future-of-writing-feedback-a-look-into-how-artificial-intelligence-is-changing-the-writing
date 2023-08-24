@@ -1,5 +1,3 @@
-Chapter 8: Conclusion
-=====================
 
 In this book, we have explored the impact of artificial intelligence (AI) on writing feedback and improvement. AI-powered tools and platforms are transforming the way we approach writing feedback, enabling a shift from reactive to proactive and continuous feedback, increasing engagement and motivation among writers, and reducing bias and variability in writing feedback.
 

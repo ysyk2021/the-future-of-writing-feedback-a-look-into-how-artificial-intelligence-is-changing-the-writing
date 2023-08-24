@@ -1,5 +1,3 @@
-Identifying Your Writing Objectives and Goals for Effective Feedback
-====================================================================================================================================
 
 Before utilizing AI-powered writing improvement tools, it is important to identify your writing objectives and goals. By doing so, you can ensure that the feedback provided by AI tools is aligned with your specific needs and preferences. In this chapter, we will explore how to identify your writing objectives and goals for effective feedback.
 

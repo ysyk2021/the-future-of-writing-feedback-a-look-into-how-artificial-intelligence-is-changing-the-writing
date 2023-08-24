@@ -1,5 +1,3 @@
-The Role of Artificial Intelligence in Enhancing the Writing Improvement Process
-=========================================================================================================
 
 Artificial intelligence (AI) technology is rapidly transforming the way we approach writing feedback and improvement. In this chapter, we will explore the role of AI in enhancing the writing improvement process.
 

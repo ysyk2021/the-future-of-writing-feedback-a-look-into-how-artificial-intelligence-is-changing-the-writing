@@ -1,5 +1,3 @@
-Improving Clarity, Coherence, and Cohesion with AI-Enabled Text Structure and Organization Analysis
-============================================================================================================================================================
 
 Artificial Intelligence (AI) can provide effective writing feedback by analyzing the text structure and organization to improve clarity, coherence, and cohesion. In this chapter, we will explore how AI can be used to analyze text structure and organization to provide actionable feedback and suggestions for improvement.
 

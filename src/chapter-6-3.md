@@ -1,5 +1,3 @@
-Increasing Engagement and Motivation Among Writers
-===================================================================================================
 
 Artificial intelligence (AI) technology is transforming the way we approach writing feedback, and it is also having a significant impact on engagement and motivation among writers. In this chapter, we will explore how AI-powered tools and platforms are increasing engagement and motivation among writers.
 

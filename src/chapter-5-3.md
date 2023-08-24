@@ -1,5 +1,3 @@
-Adapting Writing Styles and Genres with AI-Enabled Genre and Audience Analysis
-===============================================================================================================================================
 
 AI technology is transforming the writing improvement process by providing writers with real-time feedback on various aspects of their writing. In this chapter, we will explore how AI strategies can be used to develop advanced writing skills, specifically by adapting writing styles and genres with AI-enabled genre and audience analysis.
 

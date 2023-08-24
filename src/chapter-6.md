@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Writing Feedback
-===============================================
 
 AI technology is transforming the writing improvement process by providing writers with real-time feedback on various aspects of their writing. In this chapter, we will explore the impact of AI on writing feedback, including how it transforms writing feedback from reactive to proactive and continuous, reduces bias and variability in writing feedback, and increases engagement and motivation among writers.
 

@@ -1,5 +1,3 @@
-Enhancing Grammar, Syntax and Style with AI-Enabled NLP and Linguistic Analysis
-========================================================================================================================================
 
 AI technology is transforming the writing improvement process by providing writers with real-time feedback on grammar, syntax, and style. In this chapter, we will explore how AI-enabled natural language processing (NLP) and linguistic analysis can be used to provide effective writing feedback.
 

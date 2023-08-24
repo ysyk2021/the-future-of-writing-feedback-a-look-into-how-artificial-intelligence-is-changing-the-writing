@@ -1,5 +1,3 @@
-Measuring the ROI and Effectiveness of AI Implementation in Writing Feedback
-===========================================================================================================================================
 
 As artificial intelligence (AI) technology continues to transform the way we approach writing feedback and improvement, it is important to evaluate the impact of AI implementation on writing improvement. In this chapter, we will explore how to measure the return on investment (ROI) and effectiveness of AI-powered tools and platforms for writing feedback.
 

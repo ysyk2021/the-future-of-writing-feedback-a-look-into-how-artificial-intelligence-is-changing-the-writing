@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Writing Improvement
-=============================================================
 
 AI technology is transforming the writing improvement process by providing writers with real-time feedback on various aspects of their writing. In this chapter, we will explore how to evaluate the impact of AI on writing improvement by measuring the ROI and effectiveness of AI implementation in writing feedback, as well as identifying key performance metrics and goals for AI-enhanced writing improvement.
 

@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enabled Writing Improvement
-==============================================================
 
 AI technology is revolutionizing the writing improvement process by providing writers with real-time feedback on various aspects of their writing. In this chapter, we will explore how to get started with AI-enabled writing improvement by identifying your writing objectives and goals, selecting the right AI tools and platforms for your needs, and creating a customized roadmap for AI implementation in your writing feedback strategy.
 

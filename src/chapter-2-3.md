@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Writing Feedback
-================================================================================================================
 
 AI technology is revolutionizing the way we approach writing feedback and improvement. In this chapter, we will explore some of the key tools and platforms available for AI-enabled writing feedback.
 

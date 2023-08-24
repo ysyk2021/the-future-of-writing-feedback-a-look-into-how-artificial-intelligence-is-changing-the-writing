@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Writing Feedback
-===========================================================
 
 AI technology is transforming the writing improvement process by providing writers with real-time feedback on various aspects of their writing. In this chapter, we will explore the basic concepts and processes of AI algorithms for writing analysis and feedback, different types of AI techniques and applications for writing feedback, and tools and platforms for AI-enabled writing feedback.
 

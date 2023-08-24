@@ -1,5 +1,3 @@
-Enhancing Creative Writing Ability with AI-Enabled Idea Generation and Inspiration
-===================================================================================================================================================
 
 AI technology is changing the game for writers, offering new possibilities for creativity and inspiration. In this chapter, we will explore how AI can be used to enhance creative writing ability through idea generation and inspiration.
 

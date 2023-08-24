@@ -1,5 +1,3 @@
-Transforming Writing Feedback from Reactive to Proactive and Continuous
-========================================================================================================================
 
 Artificial intelligence (AI) technology is transforming the way we approach writing feedback, enabling a shift from reactive to proactive and continuous feedback. In this chapter, we will explore the impact of AI on writing feedback and how it is changing the way we approach writing improvement.
 

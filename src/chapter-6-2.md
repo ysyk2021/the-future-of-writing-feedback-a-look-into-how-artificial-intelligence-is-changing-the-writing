@@ -1,5 +1,3 @@
-Reducing Bias and Variability in Writing Feedback
-==================================================================================================
 
 Artificial intelligence (AI) technology is transforming the way we approach writing feedback, and it is also having a significant impact on reducing bias and variability in writing feedback. In this chapter, we will explore how AI-powered tools and platforms are addressing these issues.
 

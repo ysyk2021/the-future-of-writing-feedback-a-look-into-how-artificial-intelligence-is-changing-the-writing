@@ -1,5 +1,3 @@
-The Importance of Writing Feedback for Developing Writing Skills
-=========================================================================================
 
 Writing feedback is a vital component of developing strong writing skills. In this chapter, we will explore the importance of writing feedback and how it can help writers improve their craft.
 

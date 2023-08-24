@@ -1,5 +1,3 @@
-Basic Concepts and Processes of AI Algorithms for Writing Analysis and Feedback
-============================================================================================================================================
 
 Artificial intelligence (AI) technology is rapidly changing the way we approach writing feedback. In this chapter, we will discuss the basic concepts and processes behind AI algorithms for writing analysis and feedback.
 

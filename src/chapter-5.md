@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Developing Advanced Writing Skills
-===============================================================
 
 AI technology is revolutionizing the way we approach writing feedback and improvement. In this chapter, we will explore some AI strategies for developing advanced writing skills.
 
