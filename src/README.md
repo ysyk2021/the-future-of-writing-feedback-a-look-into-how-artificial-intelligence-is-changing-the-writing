@@ -8,3 +8,7 @@ In this book, you'll discover how AI is being integrated into various writing to
 Whether you're a student, a professional writer, or just looking to improve your writing skills, this book will show you how AI is changing the game and how you can use it to your advantage. By embracing the latest technology and adapting your writing process, you can become a more effective communicator and achieve your writing goals.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
