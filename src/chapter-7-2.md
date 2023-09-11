@@ -1,5 +1,4 @@
-Chapter 3: Identifying Key Performance Metrics and Goals for AI-Enhanced Writing Improvement
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter examines the process of identifying key performance metrics and goals when utilizing artificial intelligence (AI) for writing improvement. By establishing clear metrics and objectives, writers can effectively measure their progress and track the impact of AI-enhanced writing feedback on their overall improvement.
 

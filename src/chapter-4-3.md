@@ -1,5 +1,4 @@
-Chapter 8: Providing Actionable Feedback, Tips, and Suggestions with AI-Enabled Personalization and Contextualization
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is revolutionizing the writing improvement process by providing actionable feedback, practical tips, and valuable suggestions through AI-enabled personalization and contextualization. This chapter explores how AI technologies are enhancing the feedback experience, helping writers make meaningful improvements to their writing.
 

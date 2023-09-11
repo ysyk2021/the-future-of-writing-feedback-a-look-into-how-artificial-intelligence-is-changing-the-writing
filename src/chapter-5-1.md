@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Creative Writing Ability with AI-Enabled Idea Generation and Inspiration
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the role of artificial intelligence (AI) in enhancing creative writing abilities through idea generation and inspiration. AI-powered tools offer writers a plethora of resources, prompts, and techniques to stimulate their creativity, expand their imagination, and fuel their writing process.
 

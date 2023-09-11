@@ -1,5 +1,4 @@
-Chapter 7: Fostering Advanced Writing Techniques with AI-Enabled Feedback and Character Analysis
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the role of artificial intelligence (AI) in fostering advanced writing techniques through feedback and character analysis. AI-powered tools provide writers with valuable insights into their writing style, character development, and narrative structure, enabling them to enhance their storytelling abilities and create more compelling written works.
 

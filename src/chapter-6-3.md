@@ -1,5 +1,4 @@
-Chapter 7: Increasing Engagement and Motivation Among Writers
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is revolutionizing the writing improvement process by increasing engagement and motivation among writers. This chapter explores how AI technologies are transforming the way feedback is delivered, fostering a more engaging and motivating writing experience.
 

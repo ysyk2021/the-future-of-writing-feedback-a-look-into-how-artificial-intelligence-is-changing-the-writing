@@ -1,5 +1,4 @@
-Chapter 5: Reducing Bias and Variability in Writing Feedback
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is revolutionizing the writing improvement process by reducing bias and variability in writing feedback. This chapter explores how AI technologies are transforming the way feedback is provided, ensuring fair and consistent evaluations.
 

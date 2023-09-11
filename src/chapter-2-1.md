@@ -1,5 +1,4 @@
-Chapter 2: Basic Concepts and Processes of AI Algorithms for Writing Analysis and Feedback
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the basic concepts and processes of AI algorithms for writing analysis and feedback. Understanding how these algorithms work is crucial in comprehending the transformative impact of artificial intelligence (AI) on the writing improvement process.
 

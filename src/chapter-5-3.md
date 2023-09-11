@@ -1,5 +1,4 @@
-Chapter 4: Adapting Writing Styles and Genres with AI-Enabled Genre and Audience Analysis
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter delves into the role of artificial intelligence (AI) in adapting writing styles and genres through genre and audience analysis. With AI-enabled tools, writers can better understand their target audience and effectively tailor their writing to specific genres, resulting in improved communication and engagement.
 

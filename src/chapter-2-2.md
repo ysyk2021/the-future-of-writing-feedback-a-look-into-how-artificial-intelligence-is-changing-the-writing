@@ -1,5 +1,4 @@
-Chapter 5: Different Types of AI Techniques and Applications for Writing Feedback
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the various types of artificial intelligence (AI) techniques and their applications in providing writing feedback. From natural language processing to machine learning, these AI techniques are transforming the writing improvement process and offering writers new opportunities for enhancing their skills.
 

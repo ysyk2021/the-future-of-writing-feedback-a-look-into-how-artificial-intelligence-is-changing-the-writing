@@ -1,5 +1,4 @@
-Chapter 6: Tools and Platforms for AI-Enabled Writing Feedback
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the various tools and platforms that leverage artificial intelligence (AI) to provide writing feedback. These AI-enabled solutions are transforming the writing improvement process, offering writers access to advanced analysis and personalized feedback.
 

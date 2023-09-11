@@ -1,5 +1,4 @@
-Chapter 4: Improving Clarity, Coherence, and Cohesion with AI-Enabled Text Structure and Organization Analysis
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is revolutionizing the writing improvement process by enhancing clarity, coherence, and cohesion through AI-enabled text structure and organization analysis. This chapter explores how AI technologies are transforming the way writers can improve the overall structure and organization of their written work.
 

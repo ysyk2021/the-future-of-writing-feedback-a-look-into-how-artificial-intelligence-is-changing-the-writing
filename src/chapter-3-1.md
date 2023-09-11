@@ -1,5 +1,4 @@
-Chapter 2: Identifying Your Writing Objectives and Goals for Effective Feedback
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on the significance of identifying your writing objectives and goals to facilitate effective feedback using artificial intelligence (AI). By clearly defining what you aim to achieve through your writing, you can leverage AI-powered feedback more efficiently and improve your overall writing process.
 

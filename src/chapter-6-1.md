@@ -1,5 +1,4 @@
-Chapter 6: Transforming Writing Feedback from Reactive to Proactive and Continuous
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is revolutionizing the writing improvement process by transforming writing feedback from reactive to proactive and continuous. This chapter explores how AI technologies are reshaping the feedback paradigm, offering ongoing support and guidance to writers.
 
